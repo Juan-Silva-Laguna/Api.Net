@@ -1,0 +1,17 @@
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\bin\Debug\net6.0\SocialMedia.infraestructure.deps.json
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\bin\Debug\net6.0\SocialMedia.infraestructure.dll
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\bin\Debug\net6.0\ref\SocialMedia.infraestructure.dll
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\bin\Debug\net6.0\SocialMedia.infraestructure.pdb
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\bin\Debug\net6.0\Socialmedia.core.dll
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\bin\Debug\net6.0\Socialmedia.core.pdb
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\obj\Debug\net6.0\SocialMedia.infraestructure.csproj.AssemblyReference.cache
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\obj\Debug\net6.0\SocialMedia.infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\obj\Debug\net6.0\SocialMedia.infraestructure.AssemblyInfoInputs.cache
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\obj\Debug\net6.0\SocialMedia.infraestructure.AssemblyInfo.cs
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\obj\Debug\net6.0\SocialMedia.infraestructure.csproj.CoreCompileInputs.cache
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\obj\Debug\net6.0\SocialMedia.infraestructure.csproj.CopyComplete
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\obj\Debug\net6.0\SocialMedia.infraestructure.dll
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\obj\Debug\net6.0\ref\SocialMedia.infraestructure.dll
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\obj\Debug\net6.0\SocialMedia.infraestructure.pdb
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\bin\Debug\net6.0\SocialMedia.infraestructure.runtimeconfig.json
+C:\RESTFULL\SocialMedia\SocialMedia.infraestructure\obj\Debug\net6.0\SocialMedia.infraestructure.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\RESTFULL\SocialMedia\Socialmedia.core\bin\Debug\net6.0\Socialmedia.core.deps.json
+C:\RESTFULL\SocialMedia\Socialmedia.core\bin\Debug\net6.0\Socialmedia.core.dll
+C:\RESTFULL\SocialMedia\Socialmedia.core\bin\Debug\net6.0\ref\Socialmedia.core.dll
+C:\RESTFULL\SocialMedia\Socialmedia.core\bin\Debug\net6.0\Socialmedia.core.pdb
+C:\RESTFULL\SocialMedia\Socialmedia.core\obj\Debug\net6.0\Socialmedia.core.csproj.AssemblyReference.cache
+C:\RESTFULL\SocialMedia\Socialmedia.core\obj\Debug\net6.0\Socialmedia.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\RESTFULL\SocialMedia\Socialmedia.core\obj\Debug\net6.0\Socialmedia.core.AssemblyInfoInputs.cache
+C:\RESTFULL\SocialMedia\Socialmedia.core\obj\Debug\net6.0\Socialmedia.core.AssemblyInfo.cs
+C:\RESTFULL\SocialMedia\Socialmedia.core\obj\Debug\net6.0\Socialmedia.core.csproj.CoreCompileInputs.cache
+C:\RESTFULL\SocialMedia\Socialmedia.core\obj\Debug\net6.0\Socialmedia.core.dll
+C:\RESTFULL\SocialMedia\Socialmedia.core\obj\Debug\net6.0\ref\Socialmedia.core.dll
+C:\RESTFULL\SocialMedia\Socialmedia.core\obj\Debug\net6.0\Socialmedia.core.pdb
